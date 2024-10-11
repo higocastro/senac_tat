@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <title>EXPLICAÇÕES ESTILOS</title>
+</head>
+<body>
+   <h1>hierarqui ade titulos</h1> 
+
+   <h1> titulo 1</h1>
+   <h2> titulo 2</h2>
+   <h3> titulo 3</h3>
+   <h4> titulo 4</h4>
+   <h5> titulo 5</h5>
+   <h6> titulo 6</h6>
+
+   <h1>história do video game</h1>
+   <h2>playstation</h2>
+   <h3>play 1</h3>
+   <h3>play 2</h3>
+   <h2>xbox</h2>
+   <h3>xbox one</h3>
+   <h3>xbox série x</h3>
+   <h2>Nitendo</h2>
+
+   <hr>
+
+   <h1>paragráfos e quebras</h1>
+
+   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque consequuntur sed eligendi ut hic ducimus nesciunt maiores repudiandae. Quia nobis nesciunt cumque ex distinctio eum nulla? Eius, illo. Sint, itaque.
+
+    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Possimus fugit omnis labore laudantium, temporibus, sit vero distinctio voluptas voluptatum at soluta a minus accusantium. <br>
+    Qui sed perspiciatis dolore vitae debitis?
+    
+    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempora eaque corrupti dolorem perspiciatis unde temporibus, iste recusandae, modi provident suscipit odit aspernatur beatae vitae, quam nisi quidem? Ipsa, eaque nobis.
+
+   </p>
+   Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos corporis, reprehenderit natus quo repudiandae iusto voluptatum dolore ratione quasi magnam blanditiis esse iure cumque, vero quidem vel alias amet asperiores.
+
+<hr>
+
+<h1>símbolos especiais e emojis</h1>
+<!--comentário-->
+&it; <!-- menor -->
+&it; <!-- maior -->
+&le;
+&ge;
+<br>
+&pound;
+&yen;
+&euro;
+&cent;
+
+<br>
+
+&copy;
+&reg;
+&trade;
+
+<br>
+
+&delta;
+&delta;
+&sum;
+&infin;
+<p>muitos &sum; símbolos...</p>
+<br>
+🤣😊❤😍👌😒😘🤷‍♂️🤷‍♀️🤦‍♂️🙌👍👍😁💕
+&#x1f33b;
+&#x1F3BD;
+<br>
+&#x1F4B0;
+
+<h1> formatações de texto</h1>
+
+<b>este texto está em negrito.</b>
+<br>
+<strong>texto em ênfase</strong>
+<br> 
+
+<i>itálico</i>
+<em>ênfase, parece o itálico</em>
+<Br>
+
+    <strong><em>negrito e itálico</em></strong>
+
+    <br>
+
+    <mark>marca texto. cor amarelo</mark>
+
+    <mark style="background-color: brown;">outra cor</mark>
+    <br>
+    excluir um pedaço de texto. <del>texto excluido</del>
+    <br>
+    <u>sublinhado</u>
+    <ins>sublinhado</ins>
+
+    <br>
+
+    H<sub>2</sub>o
+    x<sup>2</sup>
+
+    <hr>
+
+    <h1>links</h1>
+    <a href="http://127.0.0.1:5500/introducao.html">oi sol</a>
+    <br>
+
+    <a href="https://www.sp.senac.br/">senac</a>
+    <a href="introducao.html" target="_blank"><img src="ola mundo.png" alt=""></a>
+<br>
+
+
+
+</body>
+<br>
+
+
+<hr>
+
+<h1>listas</h1>
+
+<ol>
+    <li>acordar</li>
+    <l>levantar</l>
+    <li>escovar os dentes</li>
+    <li>ir para o curso</li>
+    <ol type="I"> <!---->
+
+    </ol>
+
+    
+        
+    </li>
+</ol>
+
+
+<ol type="A" start="3">
+    <li>html</li>li>
+    <li>css>/li
+
+
+<ol type="circle"> <!--SQUARE, DISC, CIRCLE-->
+    <li>pão</li>
+<li>café</li>
+<li>leite</li>
+<li>Açúcar</li>
+</ol>
+
+    
+<ol>
+    <li>linguagens antigas</li>
+<ol>
+    <li>clipper</li>
+     <li>visual basic</li>
+     <li>deplhi</li>
+    </ol> 
+
+<li>linguagens mais recentes</li>
+<ul>
+        <li>javascript</li>
+        <li>python</li>
+        <li>php</li>
+       
+    </ul>
+
+</ol>
+
+<ul>
+    <a href="introducao.html" target="_blank">
+        <li>home</li>        
+    </a>
+    
+    <a href="">
+         <li>contatos</li>         
+    </a>
+
+    <a href="#">
+        <li>consoles</li>   
+    </a>
+</ul>
+
+
+    <dt>café da manhã</dt>
+    <dd>o café da manhã é a refeição mais importante do dia</dd>
+  <dt>almoço</dt>
+<dd>no almoço o nosso prato é o mais colorido possivél</dd>
+</dl>
+
+</body>
+
+</html>
